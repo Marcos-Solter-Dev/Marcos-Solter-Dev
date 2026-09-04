@@ -117,12 +117,12 @@ Segurança faz parte do desenvolvimento dos meus projetos desde a autenticação
   <img
     alt="Estatísticas do GitHub de Marcos Dev"
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcos-Solter-Dev&theme=github_dark&title_color=58A4EC&text_color=FEFEFE&bg_color=0D1117&border_color=30363D&icon_color=016FF7"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Marcos-Solter-Dev&show_icons=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub&bg_color=0D1117&title_color=58A4EC&text_color=FEFEFE&icon_color=016FF7&border_color=30363D"
   />
   <img
     alt="Linguagens mais usadas por Marcos Dev"
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcos-Solter-Dev&theme=github_dark&title_color=58A4EC&text_color=FEFEFE&bg_color=0D1117&border_color=30363D&chart_color=016FF7"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Marcos-Solter-Dev&layout=compact&langs_count=8&locale=pt-br&custom_title=Linguagens%20mais%20usadas&bg_color=0D1117&title_color=58A4EC&text_color=FEFEFE&border_color=30363D"
   />
 </p>
 
