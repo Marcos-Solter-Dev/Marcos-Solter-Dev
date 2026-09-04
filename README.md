@@ -214,9 +214,6 @@ Segurança faz parte do desenvolvimento dos meus projetos desde a autenticação
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Solter-Dev&layout=compact&langs_count=8&locale=pt-br&bg_color=FEFEFE&title_color=016FF7&text_color=0B1730&border_color=DCE4EF"
   />
 </p>
-
-<sub>As estatísticas de linguagens refletem os repositórios que o GitHub e o serviço de estatísticas conseguem analisar; não representam, por si só, nível de domínio técnico.</sub>
-
 ---
 
 <div align="center">
