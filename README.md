@@ -25,6 +25,8 @@ Sou desenvolvedor web com foco em criar aplicações **modernas, seguras e bem p
 <img align="left" alt="TypeScript" title="TypeScript" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Fastify" title="Fastify" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
+<img align="left" alt="Python" title="Python" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Flutter" title="Flutter" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" title="Git" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Nginx" title="Nginx" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
@@ -111,11 +113,17 @@ Segurança faz parte do desenvolvimento dos meus projetos desde a autenticação
 
 ### 📊 Estatísticas
 
-<!-- Os cards abaixo dependem de serviços externos e podem ficar temporariamente indisponíveis por limite de requisições. -->
-
-<p align="left">
-  <img alt="Estatísticas do GitHub de Marcos Dev" height="180" src="https://github-readme-stats.vercel.app/api?username=Marcos-Solter-Dev&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=false&bg_color=FEFEFE&title_color=016FF7&text_color=0B1730&icon_color=58A4EC&border_color=DCE4EF" />
-  <img alt="Linguagens mais usadas por Marcos Dev" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Solter-Dev&layout=compact&langs_count=8&locale=pt-br&bg_color=FEFEFE&title_color=016FF7&text_color=0B1730&border_color=DCE4EF" />
+<p align="center">
+  <img
+    alt="Estatísticas do GitHub de Marcos Dev"
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcos-Solter-Dev&theme=github_dark&title_color=58A4EC&text_color=FEFEFE&bg_color=0D1117&border_color=30363D&icon_color=016FF7"
+  />
+  <img
+    alt="Linguagens mais usadas por Marcos Dev"
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcos-Solter-Dev&theme=github_dark&title_color=58A4EC&text_color=FEFEFE&bg_color=0D1117&border_color=30363D&chart_color=016FF7"
+  />
 </p>
 
 ---
