@@ -10,10 +10,14 @@ Sou desenvolvedor web com foco em criar aplicações **modernas, seguras e bem p
   <a href="https://marcosolter.com.br/marcos-dev/">
     <img alt="Site Marcos Dev" title="Acessar marcosolter.com.br" src="https://img.shields.io/badge/Site-marcosolter.com.br-016FF7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1730" />
   </a>
-  <a href="https://github.com/Marcos-Solter-Dev?tab=followers">
-    <img alt="Seguidores no GitHub" title="Seguir Marcos-Solter-Dev no GitHub" src="https://img.shields.io/github/followers/Marcos-Solter-Dev?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=016FF7&labelColor=0B1730" />
-  </a>
-</p>
+
+<a href="https://github.com/Marcos-Solter-Dev?tab=followers">
+  <img
+    alt="Seguidores no GitHub"
+    src="https://img.shields.io/github/followers/Marcos-Solter-Dev?style=for-the-badge&logo=github&label=Seguidores&color=016FF7"
+  />
+</a>
+
 
 ---
 
